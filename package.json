@@ -1,0 +1,9 @@
+{
+  "name": "mongo-odm-module",
+  "version": "0.0.1",
+  "description": "Module Mongo ODM Wrapper",
+  "main": "src/index.js",
+  "repository": "https://github.com/ankitgandhi452/mongo-odm-module.git",
+  "author": "Ankit Gandhi <ankitgandhi452@gmail.com>",
+  "license": "MIT"
+}
